@@ -20,8 +20,7 @@ align-items: center;
     rgba(245, 212, 128) 15px,
     rgba(245, 212, 128) 30px
   );
-
-
+}
 
 
 
@@ -96,6 +95,32 @@ align-items: center;
     border-radius: 10px;
     margin-left: 10px;
     margin-top: 10px;
+    margin-bottom: 32px;
+    margin-right: 20px;
     width: 1000px;
     height: 280px;
+    display: flex;
+    color: #003da7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.direita {
+    background-color: #d9e9fd;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 32px;
+    width: 500px;
+    height: 280px;
+}
+
+.robo {
+    justify-content: center;
+    margin: 20px;
+    max-height: 220px;
+}
+
+#pagina2 {
+    display: flex;
+    justify-content: center;
 }
