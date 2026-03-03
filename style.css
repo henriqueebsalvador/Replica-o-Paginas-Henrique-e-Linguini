@@ -106,8 +106,10 @@ align-items: center;
 
 
 .esquerda {
-    background-color: #2596be;
-    margin: 30px;
+    background-color: #d9e9fd;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
     width: 1000px;
-    height: 300px;
+    height: 280px;
 }
