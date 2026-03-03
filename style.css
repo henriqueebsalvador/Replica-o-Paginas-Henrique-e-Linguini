@@ -14,13 +14,28 @@ align-items: center;
   width: 100%;
   height: 20px;
   background: repeating-linear-gradient(
-    45deg,
+    135deg,
     rgba(239, 203, 104),
-    rgba(239, 203, 104) 15px,
-    rgba(245, 212, 128) 15px,
-    rgba(245, 212, 128) 30px
+    rgba(239, 203, 104) 20px,
+    rgba(245, 212, 128) 20px,
+    rgba(245, 212, 128) 40px
   );
 }
+.buttons{
+    height: 25px;
+    margin-left: 5px;
+    margin-top: 7px;
+    display: flex;
+}
+#save_icon{
+    width: 20px;
+    transform: rotate(180deg);
+    margin-right: 2px;
+}
+#menu_buttons{
+    display: flex;
+}
+
 
 
 
