@@ -108,6 +108,147 @@ align-items: center;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .esquerda {
     background-color: #d9e9fd;
     border-radius: 10px;
@@ -130,6 +271,62 @@ align-items: center;
     margin-bottom: 32px;
     width: 500px;
     height: 280px;
+}
+
+.botao {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    background-color: #003da7;
+    color: white;
+    height: 35px;
+    width: 150px;
+    border-radius: 20px;
+    position: relative;
+    top: 200px;
+    right: 200px;
+}
+
+.seta {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    background-color: white;
+    color: #003da7;
+    height: 35px;
+    width: 35px;
+    border-radius: 20px;
+    position: relative;
+    top: 200px;
+    right: 230px;
+}
+
+.botao2 {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    background-color: #003da7;
+    color: white;
+    height: 35px;
+    width: 150px;
+    border-radius: 20px;
+    position: relative;
+    top: 200px;
+    right: 200px;
+}
+
+.seta2 {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    background-color: white;
+    color: #003da7;
+    height: 35px;
+    width: 35px;
+    border-radius: 20px;
+    position: relative;
+    top: 200px;
+    right: 230px;
 }
 
 .robo {
