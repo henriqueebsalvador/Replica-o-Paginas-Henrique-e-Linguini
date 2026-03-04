@@ -36,9 +36,9 @@ align-items: center;
     display: flex;
 }
 #sidebar{
-    width: 515;
+    width: 340px;
     height: 100%;
-    
+    border-right: 9px solid rgba(229, 229, 229);
 }
 #titles_sidebar{
 display: flex;
@@ -51,10 +51,37 @@ h2{
     font-size: 20;
     color: rgb(119, 119, 119)
 }
+img{
+    width: 25;
+    height: 25;
+}
 }
 #buttons_sidebar{
+    background-color:rgba(228, 228, 236);
+    img{
+        height: 17;
+    }
+}
+.margin_table_sidebar{
+    width: 20px;
+    background-color:rgba(228, 228, 236);
+    height: 30px
+}
+.header_table_sidebar{
+    background-color:rgba(228, 228, 236);
+    width: 90;
 
 }
+#table_sidebar{
+width: 514px;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table, th, td {
+    border: 1px solid rgb(194, 193, 193);
+    padding: 8px;
+    text-align: left;
+  }
 
 
 
@@ -264,7 +291,7 @@ h2{
 
 
 
-
+/* pagina 2(css do henrique) */
 
 .esquerda {
     background-color: #d9e9fd;
